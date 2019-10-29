@@ -2,7 +2,7 @@
 
 Project for Launchcode Capstone
 # Makeup-Inventory
-created for LC101/Liftoff project
+Created for LC101/Liftoff project
 Project Outline
   Overview
       I am developing a project to help people keep track of thier makeup. It is easy to use cosmetics past the expiration date, this can lead to skin issues and makeup not performing as it should. This app will also allow the individual to keep track of inventory, rate the item, wish list, description, cost, and crate shopping list. 
